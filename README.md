@@ -1,4 +1,4 @@
-                                                      100 Days of Data Science
+                                                       100 Days of Data Science
                                                        
 Starting a 100 Days Code Challenge for Learning Data Science from Scratch :
 
